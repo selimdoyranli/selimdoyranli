@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://i.pinimg.com/originals/27/52/d5/2752d56607a210701d7d97a2fd3bb1c2.gif" width="350" />
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
 
 ------------
