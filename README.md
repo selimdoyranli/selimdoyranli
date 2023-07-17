@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>I'm a UI Developer based in Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #scss</samp>
+  <samp>I'm a UI Developer based in Istanbul.<br><br>#javascript, #nuxt, #vue, #scss</samp>
   <br>
   <br>
   <br>
